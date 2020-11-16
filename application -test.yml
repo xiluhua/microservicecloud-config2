@@ -1,7 +1,0 @@
-server:
-  port: 3346
-
-rabbitmq:
-  host: localhost
-  port: 5676
-  username: guest
