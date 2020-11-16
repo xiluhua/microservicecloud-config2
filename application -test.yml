@@ -1,7 +1,7 @@
 server:
-  port: 3344
+  port: 3346
 
 rabbitmq:
   host: localhost
-  port: 5672
+  port: 5676
   username: guest
